@@ -1,0 +1,25 @@
+{
+  "name": "sandstorm",
+  "homepage": "https://github.com/davidtadams/SandStorm-Front",
+  "authors": [
+    "davidtadams <adams.t.david@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.4.9",
+    "bootstrap": "^3.3.6",
+    "angular-route": "^1.4.9",
+    "angular-resource": "^1.4.9"
+  }
+}
